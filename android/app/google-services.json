@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "35187832245",
+    "project_id": "nervous-system-92cb7",
+    "storage_bucket": "nervous-system-92cb7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35187832245:android:3f95fe034450eb7ee495fc",
+        "android_client_info": {
+          "package_name": "com.example.nervous_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBumFUoSch9xkoZB5D01APzjqF7SYLfZZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

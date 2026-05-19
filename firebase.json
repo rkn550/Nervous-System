@@ -1,0 +1,36 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "nervous-system-92cb7",
+          "appId": "1:35187832245:android:3f95fe034450eb7ee495fc",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "nervous-system-92cb7",
+          "appId": "1:35187832245:ios:18bca6f6c89ccd26e495fc",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "nervous-system-92cb7",
+          "configurations": {
+            "android": "1:35187832245:android:3f95fe034450eb7ee495fc",
+            "ios": "1:35187832245:ios:18bca6f6c89ccd26e495fc"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "database": "(default)",
+    "location": "us-central1",
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  }
+}
